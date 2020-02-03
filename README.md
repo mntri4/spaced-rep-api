@@ -2,8 +2,8 @@
 # Spaced Repetition Project - Thinkful EI34
 
 ## Links
-* Live Application: 
-* API Endpoint: 
+* Live Application: https://spaced-rep-osxir07o4.now.sh/
+* API Endpoint: https://vast-meadow-24481.herokuapp.com/api
 * Client repo: https://github.com/mntri4/spaced-rep
 * Server repo: https://github.com/mntri4/spaced-rep-api
 
