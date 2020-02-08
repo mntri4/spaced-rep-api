@@ -12,7 +12,7 @@ VALUES
     'admin',
     'Test User',
     -- password = "pass"
-    '$2a$10$fCWkaGbt7ZErxaxclioLteLUgg4Q3Rp09WW0s/wSLxDKYsaGYUpjG'
+    'a63ab4b60c78186b9fa3ba88375e56bb8ea83166e081939c87ac06c817b2694d'
   );
 
 INSERT INTO "language" ("id", "name", "user_id")
