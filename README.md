@@ -204,16 +204,16 @@ CSS3
 ## Screenshots
 Login Screen/Landing Page:
 
-![login screen](screenshots/one.pdf)
+![login screen](screenshots/one.jpg)
 
 Progress Screen:
 
-![login screen](screenshots/two.pdf)
+![login screen](screenshots/two.png)
 
 Learn Characters:
 
-[login screen](screenshots/three.pdf)
+[login screen](screenshots/third.png)
 
 Error Screen:
 
-[login screen](screenshots/four.pdf)
+[login screen](screenshots/four.png)
