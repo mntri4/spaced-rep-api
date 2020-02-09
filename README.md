@@ -200,3 +200,20 @@ CSS3
 - Chai (dev)
 - Supertest (dev)
 - Postgrator-cli (dev)
+
+## Screenshots
+Login Screen/Landing Page:
+
+![login screen](screenshots/one.pdf)
+
+Progress Screen:
+
+![login screen](screenshots/two.pdf)
+
+Learn Characters:
+
+[login screen](screenshots/three.pdf)
+
+Error Screen:
+
+[login screen](screenshots/four.pdf)
