@@ -1,5 +1,8 @@
 
-# Spaced Repetition Project - Thinkful EI34
+## Spaced repetition capstone
+This app allows uers to practice learning a language through the spaced repetition revision technique. Users can create an account and have access to a library of characters on the home dashboard.  Users can then practice by being shown a character and submit a guess.  They will then receive feedback with the total score and the correct and incorrect count for that character. The next wcharacters in sequence are determiend by the spaced repetition algorithm.
+np
+The currently available language option in this app is morse corde.
 
 ## Links
 * Live Application: https://spaced-rep-ivory.now.sh/
@@ -31,7 +34,8 @@ NOTE:  A data structure constraint was placed upon the team.  This constrained f
 
 
 
-## User stories:
+## User stories: 
+The currently available language option in this app is morse corde.
 
 ### Registration page
 As a prospective user, I can register an account so that I can login and use the application.
@@ -170,6 +174,11 @@ Run the migrations down:
 npm run migrate -- 0
 ```
 
+## Front-end Stack
+## Tech Stack
+React
+HTML5
+CSS3
 
 ## Back-end Stack:
 
